@@ -14,18 +14,19 @@ Excel.
 <b>Task 1: Data Cleaning
 <br>
 Objective:</b> Prepare the datasets for analysis by cleaning and correcting any inconsistencies.
-1. Customer Address Data:
-○ Remove any duplicate records.
-○ Ensure all state names are correctly formatted.
-2. Customer Demographic Data:
-○ Identify and correct any erroneous data entries (e.g., invalid characters in default).
-○ Standardize the format for missing data entries.
-○ Correct any anomalies in gender representation.
-3. Transaction Data:
-○ Ensure that transaction_date is in a consistent date format.
-○ Remove any records with missing or incomplete information.
-4. New Customer Data:
-○ Standardize address formatting.
-○ Ensure consistent gender representation.
-○ Correct any anomalies in job_title and job_industry_category.
+<br>
+<b>1. Customer Address Data:</b><br>
+○ Remove any duplicate records.<br>
+○ Ensure all state names are correctly formatted.<br>
+<b>2. Customer Demographic Data:</b><br>
+○ Identify and correct any erroneous data entries (e.g., invalid characters in default).<br>
+○ Standardize the format for missing data entries.<br>
+○ Correct any anomalies in gender representation.<br>
+<b>3. Transaction Data:</b><br>
+○ Ensure that transaction_date is in a consistent date format.<br>
+○ Remove any records with missing or incomplete information.<br>
+<b>4. New Customer Data:</b><br>
+○ Standardize address formatting.<br>
+○ Ensure consistent gender representation.<br>
+○ Correct any anomalies in job_title and job_industry_category.<br>
 
