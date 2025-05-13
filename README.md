@@ -15,18 +15,18 @@ Excel.
 <br>
 Objective:</b> Prepare the datasets for analysis by cleaning and correcting any inconsistencies.
 <br>
-<b>1. Customer Address Data:</b><br>
-i. Remove any duplicate records.<br>
-ii. Ensure all state names are correctly formatted.<br>
-<b>2. Customer Demographic Data:</b><br>
-I. Identify and correct any erroneous data entries (e.g., invalid characters in default).<br>
-II, Standardize the format for missing data entries.<br>
-III. Correct any anomalies in gender representation.<br>
-<b>3. Transaction Data:</b><br>
-I. Ensure that transaction_date is in a consistent date format.<br>
-II. Remove any records with missing or incomplete information.<br>
-<b>4. New Customer Data:</b><br>
-I. Standardize address formatting.<br>
-II. Ensure consistent gender representation.<br>
-III. Correct any anomalies in job_title and job_industry_category.<br>
+1. Customer Address Data:
+   i. Remove any duplicate records.
+  ii. Ensure all state names are correctly formatted.
+2. Customer Demographic Data:
+   i. Identify and correct any erroneous data entries (e.g., invalid characters in default).
+  ii. Standardize the format for missing data entries.
+ iii. Correct any anomalies in gender representation.
+3. Transaction Data:
+   i. Ensure that transaction_date is in a consistent date format.
+  ii. Remove any records with missing or incomplete information.
+4. New Customer Data:
+   i. Standardize address formatting.
+  ii. Ensure consistent gender representation.
+ iii. Correct any anomalies in job_title and job_industry_category.
 
