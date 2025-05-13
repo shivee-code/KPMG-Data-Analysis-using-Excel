@@ -16,9 +16,9 @@ Excel.
 Objective:</b> Prepare the datasets for analysis by cleaning and correcting any inconsistencies.
 <br>
 <b>1. Customer Address Data:<br>
-   I.</b> Remove any duplicate records.<br>
+   &nbsp;i.</b> Remove any duplicate records.<br>
   <b>ii.</b> Ensure all state names are correctly formatted.<br>
-2. Customer Demographic Data:
+,b>2. Customer Demographic Data:<br>
    i. Identify and correct any erroneous data entries (e.g., invalid characters in default).
   ii. Standardize the format for missing data entries.
  iii. Correct any anomalies in gender representation.
