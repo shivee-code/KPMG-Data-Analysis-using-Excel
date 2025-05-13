@@ -5,6 +5,8 @@ Cleaned and standardized customer, transaction, and demographic data, ensuring c
 <br>
 KPMG Data Analysis using Excel</b>
 <br><br>
+[KPMG-dataset] https://docs.google.com/spreadsheets/d/1u7sGpjGXmPKOsg7FmyGHOGFPjK1esnuH/edit?usp=sharing&ouid=114143905310513993055&rtpof=true&sd=true
+<br>
 <b>PROJECT OVERVIEW:</b>
 <br>
 This project aims to analyze customer demographics, transactions, and new customer data to provide insights into business
