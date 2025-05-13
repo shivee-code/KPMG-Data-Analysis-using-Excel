@@ -105,3 +105,8 @@ Objective:</b> Calculate and analyze the customer lifetime value to identify the
 
 </div>
 </details>
+<br>
+<b>2. Segment CLV Analysis:<br>
+&nbsp;&nbsp;&nbsp;i.</b> Show average CLV by wealth_segment.<br>
+&nbsp;&nbsp;<b>ii.</b> Analyze the relationship between CLV and customer demographics (e.g., gender, job industry).<br><br>
+
