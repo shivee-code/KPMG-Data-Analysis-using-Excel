@@ -108,4 +108,12 @@ Objective:</b> Calculate and analyze the customer lifetime value to identify the
 &nbsp;&nbsp;&nbsp;i.</b> Show average CLV by wealth_segment.<br>
 &nbsp;&nbsp;<b>ii.</b> Analyze the relationship between CLV and customer demographics (e.g., gender, job industry).<br><br>
 
+<b>Task 6: Executive Summary and Recommendations<br>
+Objective:</b> Summarize findings and provide actionable recommendations for business strategies.<br>
+<b>1. Summary of Key Insights:<br>
+&nbsp;&nbsp;&nbsp;i.</b> Highlight key findings from customer segmentation, transaction analysis, new customer insights, and CLV analysis.<br>
+<b>2. Recommendations:<br>
+&nbsp;&nbsp;&nbsp;i.</b> Provide recommendations for marketing strategies targeting high-value customer segments.<br>
+&nbsp;&nbsp;<b>ii.</b> Suggest potential areas for business expansion based on new customer location analysis.<br>
+&nbsp;<b>iii.</b> Recommend improvements in product offerings based on transaction analysis.<br>
 
