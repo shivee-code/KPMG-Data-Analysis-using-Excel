@@ -23,7 +23,7 @@ Objective:</b> Prepare the datasets for analysis by cleaning and correcting any 
   &nbsp;&nbsp;<b>ii.</b> Standardize the format for missing data entries.<br>
  &nbsp;<b>iii.</b> Correct any anomalies in gender representation.<br>
 <b>3. Transaction Data:<br>
-   &nbsp;&nbsp;&nbsp;i.</b> Ensure that transaction_date is in a consistent date format.
+   &nbsp;&nbsp;&nbsp;i.</b> Ensure that transaction_date is in a consistent date format.<br>
   &nbsp;&nbsp;<b>ii.</b> Remove any records with missing or incomplete information.<br>
 <b>4. New Customer Data:<br>
    &nbsp;&nbsp;&nbsp;i.</b> Standardize address formatting.<br>
