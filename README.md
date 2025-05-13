@@ -55,3 +55,13 @@ Objective:</b> Analyze transaction data to identify trends and patterns.<br><br>
 &nbsp;&nbsp;&nbsp;i.</b> Identify the top 10 customers based on total transaction value.<br>
 &nbsp;&nbsp;<b>ii.</b> Calculate the average number of purchases per customer.<br><br>
 
+<b>Task 4: New Customer Insights<br>
+Objective:</b> Analyze the new customer dataset to provide insights into potential new customer behavior and value.<br><br>
+<b>1. New Customer Demographics:<br>
+&nbsp;&nbsp;&nbsp;i.</b> Show the distribution of new customers by wealth_segment and job_industry_category.<br>
+&nbsp;&nbsp;<b>ii.</b> Calculate the average past_3_years_bike_related_purchases for new customers.<br>
+<b>2. New Customer Location Analysis:<br>
+&nbsp;&nbsp;&nbsp;i.</b> Create a map or chart showing the distribution of new customers by state.<br>
+&nbsp;&nbsp;<b>ii.</b> Analyze the correlation between property_valuation and customer wealth_segment.<br>
+<b>3. Potential Revenue from New Customers:<br>
+&nbsp;&nbsp;&nbsp;i.</b>Estimate potential revenue based on past_3_years_bike_related_purchases and value.<br><br>
