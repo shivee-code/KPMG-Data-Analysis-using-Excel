@@ -12,7 +12,7 @@ performance and customer behavior. The project consists of six tasks that involv
 Excel.
 <br><br>
 <b>FINDINGS:</b><br><br>
-<b>Task 1: Data Cleaning
+<&nbsp;&nbsp;&nbsp;><b>Task 1: Data Cleaning
 <br>
 Objective:</b> Prepare the datasets for analysis by cleaning and correcting any inconsistencies.
 <br>
@@ -29,5 +29,5 @@ Objective:</b> Prepare the datasets for analysis by cleaning and correcting any 
 <b>4. New Customer Data:<br>
    &nbsp;&nbsp;&nbsp;i.</b> Standardize address formatting.<br>
   &nbsp;&nbsp;<b>ii.</b> Ensure consistent gender representation.<br>
- &nbsp;<b>iii.</b> Correct any anomalies in job_title and job_industry_category.<br>
+ &nbsp;<b>iii.</b> Correct any anomalies in job_title and job_industry_category.<br></&nbsp;&nbsp;&nbsp;>
 
