@@ -29,5 +29,17 @@ Objective:</b> Prepare the datasets for analysis by cleaning and correcting any 
 <b>4. New Customer Data:<br>
    &nbsp;&nbsp;&nbsp;i.</b> Standardize address formatting.<br>
   &nbsp;&nbsp;<b>ii.</b> Ensure consistent gender representation.<br>
- &nbsp;<b>iii.</b> Correct any anomalies in job_title and job_industry_category.<br>
+ &nbsp;<b>iii.</b> Correct any anomalies in job_title and job_industry_category.<br><br>
+
+ <b>Task 2: Customer Segmentation<br>
+Objective:</b> Segment customers based on demographic and transaction data to identify key customer groups.<br><br>
+<b>1. Segmentation by Wealth Segment:
+&nbsp;&nbsp;&nbsp;i.</b> Show the number of customers in each wealth_segment.<br>
+&nbsp;&nbsp;<b>ii.</b> Calculate the average tenure for each wealth_segment.<br>
+<b>2. Segmentation by Gender:<br>
+&nbsp;&nbsp;&nbsp;i.</b> Showing the number of customers by gender.<br>
+&nbsp;&nbsp;<b>ii.</b> Calculate the average past_3_years_bike_related_purchases for each gender.<br>
+<b>3. Segmentation by Job Industry:<br>
+&nbsp;&nbsp;&nbsp;i.</b> Showing the number of customers in each job_industry_category.<br>
+&nbsp;&nbsp;<b>ii.</b> Analyze the distribution of wealth_segment within each industry.
 
