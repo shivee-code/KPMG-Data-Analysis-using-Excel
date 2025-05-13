@@ -33,7 +33,7 @@ Objective:</b> Prepare the datasets for analysis by cleaning and correcting any 
 
  <b>Task 2: Customer Segmentation<br>
 Objective:</b> Segment customers based on demographic and transaction data to identify key customer groups.<br><br>
-<b>1. Segmentation by Wealth Segment:
+<b>1. Segmentation by Wealth Segment:<br>
 &nbsp;&nbsp;&nbsp;i.</b> Show the number of customers in each wealth_segment.<br>
 &nbsp;&nbsp;<b>ii.</b> Calculate the average tenure for each wealth_segment.<br>
 <b>2. Segmentation by Gender:<br>
@@ -41,5 +41,17 @@ Objective:</b> Segment customers based on demographic and transaction data to id
 &nbsp;&nbsp;<b>ii.</b> Calculate the average past_3_years_bike_related_purchases for each gender.<br>
 <b>3. Segmentation by Job Industry:<br>
 &nbsp;&nbsp;&nbsp;i.</b> Showing the number of customers in each job_industry_category.<br>
-&nbsp;&nbsp;<b>ii.</b> Analyze the distribution of wealth_segment within each industry.
+&nbsp;&nbsp;<b>ii.</b> Analyze the distribution of wealth_segment within each industry.<br><br>
+
+<b>Task 3: Transaction Analysis<br>
+Objective:</b> Analyze transaction data to identify trends and patterns.<br><br>
+<b>1. Sales Trend Analysis:<br>
+&nbsp;&nbsp;&nbsp;i.</b> Create a chart showing the total sales per month.<br>
+&nbsp;&nbsp;<b>ii.</b> Identify any seasonal trends or significant spikes in sales.<br>
+<b>2. Product Performance Analysis:<br>
+&nbsp;&nbsp;&nbsp;i</b> Show the total sales for each brand.<br>
+&nbsp;&nbsp;<b>ii.</b> Calculate the total sales and average list_price for each product_line.<br>
+<b>3. Customer Purchase Behavior:<br>
+&nbsp;&nbsp;&nbsp;i.</b> Identify the top 10 customers based on total transaction value.<br>
+&nbsp;&nbsp;<b>ii.</b> Calculate the average number of purchases per customer.<br><br>
 
