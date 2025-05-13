@@ -109,7 +109,7 @@ Objective:</b> Calculate and analyze the customer lifetime value to identify the
 &nbsp;&nbsp;<b>ii.</b> Analyze the relationship between CLV and customer demographics (e.g., gender, job industry).<br><br>
 
 <b>Task 6: Executive Summary and Recommendations<br>
-Objective:</b> Summarize findings and provide actionable recommendations for business strategies.<br>
+Objective:</b> Summarize findings and provide actionable recommendations for business strategies.<br><br>
 <b>1. Summary of Key Insights:<br>
 &nbsp;&nbsp;&nbsp;i.</b> Highlight key findings from customer segmentation, transaction analysis, new customer insights, and CLV analysis.<br>
 <b>2. Recommendations:<br>
