@@ -14,7 +14,7 @@ Excel.
 <b>Task 1: Data Cleaning
 <br>
 Objective:</b> Prepare the datasets for analysis by cleaning and correcting any inconsistencies.
-<br>
+<br><br>
 <b>1. Customer Address Data:<br>
    &nbsp;&nbsp;&nbsp;i.</b> Remove any duplicate records.<br>
    &nbsp;&nbsp;<b>ii.</b> Ensure all state names are correctly formatted.<br>
