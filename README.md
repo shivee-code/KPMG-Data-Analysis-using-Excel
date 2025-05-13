@@ -11,8 +11,9 @@ This project aims to analyze customer demographics, transactions, and new custom
 performance and customer behavior. The project consists of six tasks that involve data cleaning, data analysis, and visualization using
 Excel.
 <br><br>
-Task 1: Data Cleaning
-Objective: Prepare the datasets for analysis by cleaning and correcting any inconsistencies.
+<b>Task 1: Data Cleaning
+<br>
+Objective:</b> Prepare the datasets for analysis by cleaning and correcting any inconsistencies.
 1. Customer Address Data:
 ○ Remove any duplicate records.
 ○ Ensure all state names are correctly formatted.
