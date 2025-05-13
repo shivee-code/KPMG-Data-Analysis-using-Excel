@@ -108,3 +108,33 @@ Objective:</b> Calculate and analyze the customer lifetime value to identify the
 &nbsp;&nbsp;&nbsp;i.</b> Show average CLV by wealth_segment.<br>
 &nbsp;&nbsp;<b>ii.</b> Analyze the relationship between CLV and customer demographics (e.g., gender, job industry).<br><br>
 
+
+
+<div style="border:1px solid #000; padding:16px; border-radius:6px; background-color:#f9f9f9; font-family:sans-serif;">
+
+<strong>Formula</strong><br>
+<code>CLV = (Average Purchase Value × Purchase Frequency) × Customer Lifespan</code>
+
+<br><br>
+
+<strong>Average Purchase Value (APV):</strong><br><br>
+
+• This is the average amount of money a customer spends in a single purchase.<br>
+<code>APV = Total Revenue / Number of Purchases</code><br><br>
+
+• <strong>Total Revenue</strong> is the sum of all revenues generated from all purchases. You can get the total revenue by using transactional data.<br>
+• <strong>Number of Purchases</strong> is the total count of all transactions of that customer.
+
+<br><br>
+<strong>Purchase Frequency (PF):</strong><br><br>
+
+• This is the average number of times a customer makes a purchase in a given period.<br>
+<code>PF = Total Number of Transactions / Number of Unique Customers</code>
+
+<br><br>
+<strong>Customer Lifespan (CL):</strong><br><br>
+
+• This represents the average number of years a customer remains active.<br>
+• In your dataset, this is represented by the <code>tenure</code> column in the Customer Demographic dataset.
+
+</div>
