@@ -65,3 +65,38 @@ Objective:</b> Analyze the new customer dataset to provide insights into potenti
 &nbsp;&nbsp;<b>ii.</b> Analyze the correlation between property_valuation and customer wealth_segment.<br>
 <b>3. Potential Revenue from New Customers:<br>
 &nbsp;&nbsp;&nbsp;i.</b>Estimate potential revenue based on past_3_years_bike_related_purchases and value.<br><br>
+
+
+<details>
+<summary><strong>📦 CLV Formula Breakdown</strong></summary>
+
+<div style="border:1px solid #000; padding:16px; border-radius:6px; background-color:#f9f9f9;">
+
+**Formula**  
+`CLV = (Average Purchase Value × Purchase Frequency) × Customer Lifespan`
+
+---
+
+### **Average Purchase Value (APV):**
+
+- This is the average amount of money a customer spends in a single purchase.  
+- **Formula:** `APV = Total Revenue / Number of Purchases`
+  - **Total Revenue** is the sum of all revenues generated from all purchases. You can get the total revenue from transactional data.
+  - **Number of Purchases** is the total count of all transactions of that customer.
+
+---
+
+### **Purchase Frequency (PF):**
+
+- This is the average number of times a customer makes a purchase in a given period.  
+- **Formula:** `PF = Total Number of Transactions / Number of Unique Customers`
+
+---
+
+### **Customer Lifespan (CL):**
+
+- This represents the average number of years a customer remains active.  
+- In your dataset, this is represented by the `tenure` column in the Customer Demographic dataset.
+
+</div>
+</details>
