@@ -17,14 +17,14 @@ Objective:</b> Prepare the datasets for analysis by cleaning and correcting any 
 <br><br>
 <b>1. Customer Address Data:<br>
    &nbsp;&nbsp;&nbsp;i.</b> Remove any duplicate records.<br>
-   &nbsp;&nbsp;<b>ii.</b> Ensure all state names are correctly formatted.<br>
+   &nbsp;&nbsp;<b>ii.</b> Ensure all state names are correctly formatted.<br><br>
 <b>2. Customer Demographic Data:<br>
    &nbsp;&nbsp;&nbsp;i.</b> Identify and correct any erroneous data entries (e.g., invalid characters in default).<br>
   &nbsp;&nbsp;<b>ii.</b> Standardize the format for missing data entries.<br>
- &nbsp;<b>iii.</b> Correct any anomalies in gender representation.<br>
+ &nbsp;<b>iii.</b> Correct any anomalies in gender representation.<br><br>
 <b>3. Transaction Data:<br>
    &nbsp;&nbsp;&nbsp;i.</b> Ensure that transaction_date is in a consistent date format.<br>
-  &nbsp;&nbsp;<b>ii.</b> Remove any records with missing or incomplete information.<br>
+  &nbsp;&nbsp;<b>ii.</b> Remove any records with missing or incomplete information.<br><br>
 <b>4. New Customer Data:<br>
    &nbsp;&nbsp;&nbsp;i.</b> Standardize address formatting.<br>
   &nbsp;&nbsp;<b>ii.</b> Ensure consistent gender representation.<br>
