@@ -66,9 +66,14 @@ Objective:</b> Analyze the new customer dataset to provide insights into potenti
 <b>3. Potential Revenue from New Customers:<br>
 &nbsp;&nbsp;&nbsp;i.</b>Estimate potential revenue based on past_3_years_bike_related_purchases and value.<br><br>
 
+<b>Task 5: Customer Lifetime Value (CLV) Analysis<br>
+Objective:</b> Calculate and analyze the customer lifetime value to identify the most valuable customers.<br><br>
+<b>1. CLV Calculation:<br>
+&nbsp;&nbsp;&nbsp;i.</b> Use the formula<br>
+&nbsp;&nbsp;<b>ii.</b> Calculate CLV for each customer using transaction data.<br>
 
 <details>
-<summary><strong>📦 CLV Formula Breakdown</strong></summary>
+<summary><strong> CLV Formula Breakdown</strong></summary>
 
 <div style="border:1px solid #000; padding:16px; border-radius:6px; background-color:#f9f9f9;">
 
